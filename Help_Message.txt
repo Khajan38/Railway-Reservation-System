@@ -1,0 +1,75 @@
+
+A railway reservation system is software that handles distribution, pricing, scheduling, and other railway operations. It is better to use software instead of paper because by using software we can get instant result. 
+
+		              NEED OF THE SYSTEM  
+
+* To computerize all the necessary data.
+* Manual storing of train details is not effective to present times.
+* Data Efficiency is more.
+* Data could be secured by copying.
+* Data can be found anytime as per needs.
+*  Data searching is time taking manually, however, it is time efficient.
+* Information is accurate.  
+
+		                                          OBJECTIVE
+
+The objective of the project is to build This project introduces railway reservation system. It explains how reservation is being done in Indian Railways. The step by step procedure is explained. Proper comments have been given at desired location to make the project user friendly. Various functions and structures are used to make a complete use of this language, this project is well versed with the programming. Railway reservation can easily accompany with the help of this.
+
+                        MODULARIZATION & FILES DETAILS
+
+The project contains the following modules :
+
+1. Main_Program
+
+         A. Password_Screen.py
+         B. Main_Program.py
+         C. Main_Menu.py
+
+2. Train
+
+         A. Train_Details.py
+         B. Train_Updates.py
+
+3. Tickets
+
+         A. PNR_Status.py
+         B. Ticket_Reservation.py
+         C. Ticket_Cancellation.py
+
+4. Sounds
+
+         A. Sound.py
+         B. Welcome to Great...mp3
+         C. Sorry, Wrong Password.mp3
+         D. Access_Denied_Preview.mp3
+         E. Invalid Input.mp3
+         F. Continue and quit.mp3
+         G. Feedback.mp3
+         H. Thanks.mp3
+     
+5. Help_and_Feedbacks
+
+         A. Help_and_Feedbacks.py
+         B. Help_Message.txt
+
+                              VARIOUS FILES INCLUDED
+
+
+The project contains following SQL tables : 
+
+1. Train
+2. Tickets
+
+The project contains following text file :
+
+1. Help_Message.txt
+
+The project contains following mp3 files :
+
+1. Welcome to Great...mp3
+2. Sorry, Wrong Password.mp3
+3. Access_Denied_Preview.mp3
+4. Invalid Input.mp3
+5. Continue and quit.mp3
+6. Feedback.mp3
+7. Thanks.mp3
